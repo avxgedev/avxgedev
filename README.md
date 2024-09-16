@@ -9,4 +9,8 @@ Heres a bit about me:
 
 # Languages & Tools:
 
-:JavaScript:
+***JavaScript***
+***C ++***
+***C #***
+
+![Untitled (3)](https://github.com/user-attachments/assets/561a49ba-cccc-4487-962d-2c744de141b7)
