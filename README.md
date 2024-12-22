@@ -6,7 +6,7 @@ Unreal Engine Developer @TivanStudios
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ue)](https://skillicons.dev)
 
 ## Skills
 
